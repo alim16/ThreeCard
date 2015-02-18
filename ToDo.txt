@@ -1,0 +1,8 @@
+
+p1)setup hand rank comparison //using existing code, no new classes *maybe*
+p1)high card ace is not detected. (because ace is both highest and lowest) FIX it
+p1)setup game using STATES
+p1)finish LogInfo class
+p2)create GUI
+p2)fix issue with queen,king Ace straight
+p3)setup Loginfo to store in database instead of files
